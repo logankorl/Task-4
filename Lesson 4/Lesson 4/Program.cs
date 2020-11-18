@@ -14,7 +14,6 @@ namespace Lesson_4
             //Task2();
             //Inverse();
             //Multy();
-            WriteAndRead();
 
 
             Console.ReadKey();
@@ -104,9 +103,6 @@ namespace Lesson_4
                 Console.Write((arr[i] * n) + " ");
             }
         }
-        public static void WriteAndRead()
-        {
 
-        }
     }
     }
